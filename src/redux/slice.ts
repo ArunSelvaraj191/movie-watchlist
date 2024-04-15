@@ -1,5 +1,5 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import { MovieListType } from "../assets/types";
+import { MovieListType } from "../utils/types";
 
 const initialState: MovieListType = {};
 
